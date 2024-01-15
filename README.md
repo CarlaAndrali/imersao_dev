@@ -22,6 +22,4 @@ Sem mais delongas... <a href = "https://carlaandrali.github.io/imersao_dev/"> Cl
 
 _____________________________________________________________________________________________________________________________________________________________________________
 
-<img align="right" alt="Meu Certificado" height="200" src="(https://github.com/CarlaAndrali/imersao_dev/files/13940359/Certificado.-.Imersao.DEV.pdf)">
-
 [Certificado - Imersão DEV.pdf](https://github.com/CarlaAndrali/imersao_dev/files/13940359/Certificado.-.Imersao.DEV.pdf)
